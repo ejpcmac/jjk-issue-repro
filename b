@@ -1,4 +1,4 @@
-A file with a modified header.
+A file with a header.
 
 A first paragraph.
 
